@@ -15,5 +15,5 @@
 
 echo "Hello, world!"
 echo "The time is $(date)."
-echo "Hello, world!"
+echo "Hello, world from xyz!"
 
